@@ -1,8 +1,3 @@
-/*
- * Author: MIUZEI
- * IDE V1.6.9
- * Email:support@miuzeipro.com
- */
 #include <dht11.h>
 dht11 DHT11;
 #define DHT11PIN 8
